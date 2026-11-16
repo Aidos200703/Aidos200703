@@ -40,7 +40,7 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,redis&perline=8" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,jest,git,postman,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,jest,git,postman,vscode&perline=8" />
 </p>
 
 <details>
@@ -52,7 +52,7 @@
 | 🎨 **Frontend** | React, TypeScript, Next.js, Redux Toolkit, React Query, Tailwind CSS |
 | ⚙️ **Backend** | Node.js, Express, NestJS, REST API, JWT, WebSockets |
 | 🗄️ **Databases** | PostgreSQL, MySQL |
-| 🚢 **DevOps** | Docker, GitHub Actions, Nginx, Linux |
+| 🚢 **DevOps** | Docker, GitHub Actions, Nginx |
 | 🧪 **Testing** | Jest, React Testing Library, Supertest |
 
 </details>
