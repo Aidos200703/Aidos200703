@@ -121,11 +121,6 @@ Product catalog, cart and orders with Stripe test payments. Redis caching and Je
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aidos200703&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidos200703&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Aidos200703&theme=tokyonight&hide_border=true" />
 </p>
 
