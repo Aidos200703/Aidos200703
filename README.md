@@ -73,44 +73,30 @@ Worked on **xVenture**, a Telegram Mini App built with **Next.js, TypeScript, Po
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 📋 TaskFlow
-**Team Task Manager**
+### 🎟️ EventHub
+**Event Ticketing Platform**
 
-Kanban boards with drag-and-drop, real-time updates and team roles. REST API with validation, pagination and Swagger docs.
+- 🔎 Event catalog with URL-based filters, favorites, checkout with test payment and QR tickets
+- 📊 Organizer dashboard: event CRUD with cover upload, sales stats, orders table and QR check-in
+- 🔒 Safe orders (no overselling, idempotent checkout, ownership checks), tested with Vitest and Playwright in CI
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 </p>
 
-<a href="https://github.com/Aidos200703/taskflow"><img src="https://img.shields.io/badge/View_Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 ShopAPI
-**E-commerce Backend**
-
-Product catalog, cart and orders with Stripe test payments. Redis caching and Jest + Supertest integration tests.
-
-<p>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-</p>
-
-<a href="https://github.com/Aidos200703/shop-api"><img src="https://img.shields.io/badge/View_Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Aidos200703/EventHub"><img src="https://img.shields.io/badge/View_Repo-36BCF7?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
